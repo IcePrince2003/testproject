@@ -1,0 +1,10 @@
+D:\Desktop\Learning Winform\ColorCode\bin\Debug\ColorCode.exe.config
+D:\Desktop\Learning Winform\ColorCode\bin\Debug\ColorCode.exe
+D:\Desktop\Learning Winform\ColorCode\bin\Debug\ColorCode.pdb
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.csproj.AssemblyReference.cache
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.Form1.resources
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.Properties.Resources.resources
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.csproj.GenerateResource.cache
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.csproj.CoreCompileInputs.cache
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.exe
+D:\Desktop\Learning Winform\ColorCode\obj\Debug\ColorCode.pdb
